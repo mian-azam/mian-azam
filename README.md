@@ -9,12 +9,21 @@ I love to travel and explore nature, specially lakes and mountains. I wish that 
 
 ##
 
-### Skills that I am learning and Improving
+### Soft Skills that I am learning and Improving
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+##
+
+### Other Skills 
+1. Vedio Editing and Videography (Filomra, OpenShot)
+2. Internal Audit and Accounts (Hotel Industry)
+3. Event Plannig and Management
+4. Management and Command
+5. Leadership
 
 
