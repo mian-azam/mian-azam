@@ -11,14 +11,10 @@ I love to travel and explore nature, specially lakes and mountains. I wish that 
 
 ### Skills that I am learning and Improving
 
-![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/code-typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/code-java-informational?style=for-the-badge&logo=java&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/code-python-informational?style=for-the-badge&logo=python&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/db-firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=51be8d)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+
