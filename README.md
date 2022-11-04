@@ -29,7 +29,10 @@ I love to travel and explore nature, specially lakes and mountains. I wish that 
 ##
 
 ### My Profile Stat
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mian-azam&theme=vue)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mian-azam)
+
+##
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mian-azam&theme=vue)
+
 
 
