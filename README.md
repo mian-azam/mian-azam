@@ -1,4 +1,4 @@
-![My cover Image](images/simon-english-48nerZQCHgo-unsplash.jpg)
+![My cover Image](images/simon-english-48nerZQCHgo-unsplash.jpg width=200px)
 
 ## Who am I ?
 I am Mian Azam Mehmood, Software Development student, a Philomath and great lover of Nature. 
