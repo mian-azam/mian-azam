@@ -1,9 +1,9 @@
 ![My cover Image](images/simon-english-48nerZQCHgo-unsplash.jpg)
 
 ## Who am I ?
-I am Mian Azam Mehmood, Software Development student, a Philomath and great lover of Nature. 
+I am Mian Azam Mehmood, Software and website developer, a Philomath and great lover of Nature. 
 
-I am originally from Pakistan, and have been here in Winnipeg since September 2021. I am currently studying at Manitoba Institute of Trades and Technology. So far, I have some experience with HTML, CSS and JavaScript, and still learning. I am working as a Night Auditor at Canad Inns where I have already work on two other positions of Guest Services Agent and Event Set-Up in last 14 months. 
+Highly motivated software developer with about one and a half year of intensive project-based academic practical experience. Skilled in HTML5, CSS3, JavaScript, OOP, APIs, C#, .NET, MVC, ORM, SQL, Microsoft SQL server, Microsoft Visual Studio, VS Code and React.JS. Strong problem- solving and analytical skills, with a passion for staying up-to-date with emerging trends and technologies in the software development industry. Looking for an entry-level software development role to apply my skills and knowledge and to contribute to the success of the team and organization.
 
 I love to travel and explore nature, specially lakes and mountains. I wish that if I will only be able to even explore my home country, that will be an achievement. 
 
